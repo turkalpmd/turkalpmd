@@ -8,6 +8,9 @@
 - 📫 How to reach me: 
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turkalpmd/)  
+[![Kaggle](https://img.shields.io/badge/K-Kaggle-purple)](https://www.kaggle.com/zzettrkalpakbal/code?tab=active)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/turkalpmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
