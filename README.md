@@ -1,3 +1,6 @@
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=333FF7&background=6C4E5E00&center=true&vCenter=true&multiline=true&width=538&height=60&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Hacettepe University Medical School Department of Pediatrics
@@ -6,10 +9,6 @@
 - 👯 I’m looking to collaborate on "Digital Health"
 - 💬 Ask me about Medicine with Artificial Intelligence
 - 📫 How to reach me: 
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turkalpmd/)  
-[![Kaggle](https://img.shields.io/badge/K-Kaggle-blue)](https://www.kaggle.com/zzettrkalpakbal/code?tab=active)
 
 
 <a href="https://www.instagram.com/turkalpmd/">
@@ -26,18 +25,9 @@
 </a>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/turkalpmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/turkalpmd/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="[your link](https://www.instagram.com/turkalpmd/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/zzettrkalpakbal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCJMAppQnOD0Rc5nqGMwvP8g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+📈 my github stats
 
-
-
-<p align="center">![Turkalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=turkalpmd&show_icons=true&theme=radical)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=turkalpmd&show_icons=true&theme=gotham" alt="turkalpmd" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turkalpmd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
