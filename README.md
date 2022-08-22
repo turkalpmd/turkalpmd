@@ -27,3 +27,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/turkalpmd/github-profile-trophy)
 
+![](https://komarev.com/ghpvc/?username=turkalpmd)
