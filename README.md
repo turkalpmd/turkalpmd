@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Hacettepe University Medical School Department of Pediatrics
 - 🌱 I’m currently learning Time Series
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turkalpmd&show_icons=true&theme=radical)
 
 
 - 👯 I’m looking to collaborate on "Digital Health"
