@@ -9,7 +9,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turkalpmd/)  
-[![Kaggle](https://img.shields.io/badge/K-Kaggle-purple)](https://www.kaggle.com/zzettrkalpakbal/code?tab=active)
+[![Kaggle](https://img.shields.io/badge/K-Kaggle-blue)](https://www.kaggle.com/zzettrkalpakbal/code?tab=active)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
