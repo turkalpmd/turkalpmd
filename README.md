@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=B3F398&lines=Welcome+to+My+Profile;Artificial+Intelligence+Enthusiast+Doctor)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Hacettepe University Medical School Department of Pediatrics
 - 🌱 I’m currently learning Time Series
@@ -28,3 +28,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/turkalpmd/github-profile-trophy)
 
 ![](https://komarev.com/ghpvc/?username=turkalpmd)
+
+
+
+
