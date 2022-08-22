@@ -29,7 +29,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=turkalpmd&show_icons=true&theme=gotham" alt="turkalpmd" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turkalpmd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=turkalpmd&layout=compact"/>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/turkalpmd/github-profile-trophy)
