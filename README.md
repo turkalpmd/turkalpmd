@@ -11,6 +11,21 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turkalpmd/)  
 [![Kaggle](https://img.shields.io/badge/K-Kaggle-blue)](https://www.kaggle.com/zzettrkalpakbal/code?tab=active)
 
+
+<a href="https://www.instagram.com/turkalpmd/">
+  <img align="left" alt="Turkalp's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/turkalpmd#4917">
+  <img align="left" alt="Turkalp's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/turkalpmd">
+  <img align="left" alt="turkalpmd | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/turkalpmd/">
+  <img align="left" alt="Turkalp's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/turkalpmd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
@@ -22,7 +37,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turkalpmd&show_icons=true&theme=radical)
+<p align="center">![Turkalp's GitHub stats](https://github-readme-stats.vercel.app/api?username=turkalpmd&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turkalpmd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
