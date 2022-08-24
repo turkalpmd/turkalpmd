@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on "Digital Health"
 - 💬 Ask me about Medicine with Artificial Intelligence
-| 📫 How to reach me: |
+ 📫 How to reach me: 
 #
 
                                                                                         
