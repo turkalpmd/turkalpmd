@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate on "Digital Health"
 - 💬 Ask me about Medicine with Artificial Intelligence
  📫 How to reach me: 
+#
  [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 #
 
