@@ -18,13 +18,13 @@
   <img align="left" alt="Turkalp's Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" />
 </a>
 <a href="https://discord.gg/turkalpmd#4917">
-  <img align="left" alt="Turkalp's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Turkalp's Discord" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/91_Discord-512.png" />
 </a>
 <a href="https://twitter.com/turkalpmd">
-  <img align="left" alt="turkalpmd | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="turkalpmd | Twitter" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/turkalpmd/">
-  <img align="left" alt="Turkalp's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Turkalp's LinkedIN" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" />
 </a>
 
 #
