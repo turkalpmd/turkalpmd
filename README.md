@@ -15,7 +15,7 @@
 
                                                                                         
 <a href="https://www.instagram.com/turkalpmd/">
-  <img align="left" alt="Turkalp's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Turkalp's Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" />
 </a>
 <a href="https://discord.gg/turkalpmd#4917">
   <img align="left" alt="Turkalp's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
