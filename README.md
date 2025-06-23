@@ -14,10 +14,7 @@ I turn messy pediatric data into **production‑ready AI systems** that actually
 * 💬 Ask me about **time‑series modeling, MLOps, or LLM evaluation**
 * 🌱 Currently hacking on **graph‑based forecasting** & **RAG agents**
 
-## 🌐 Links
-
-[GitHub](https://github.com/turkalpmd) · [LinkedIn](https://www.linkedin.com/in/turkalpmd/) · [X/Twitter](https://twitter.com/turkalpmd) · [Instagram](https://www.instagram.com/turkalpmd/) · [Email](mailto:izzetakbasli@gmail.com)
-
+## 📫 How to reach me:
 ---
                                                                                         
 <a href="https://www.instagram.com/turkalpmd/">
