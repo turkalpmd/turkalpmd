@@ -1,23 +1,11 @@
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=333FF7&background=6C4E5E00&center=true&vCenter=true&multiline=true&width=538&height=60&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
-
-- 🔭 I’m currently working on Hacettepe University Medical School Department of Pediatrics
-- 🌱 I’m currently learning Time Series
-
-- 👯 I’m looking to collaborate on "Digital Health"
-- 💬 Ask me about Medicine with Artificial Intelligence
- 📫 How to reach me: 
-#
- [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-#
-
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="160"/>
 
 # 👋 Hi, I'm **Dr. İzzet Turkalp Akbaşlı**
 
 ### Time‑Series • MLOps • Cloud • LLMs
+#
+ [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+#
 
 I turn messy pediatric data into **production‑ready AI systems** that actually ship—and stay up.
 
